@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekufiuyu.github.io/Bne/sitemap_index.txt
+Sitemap: https://ekufiuyu.github.io/Exd/sitemap_index.txt
+Sitemap: https://ekufiuyu.github.io/RwE/sitemap_index.txt
+Sitemap: https://ekufiuyu.github.io/SyI/sitemap_index.txt
